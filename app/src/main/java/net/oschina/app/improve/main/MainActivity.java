@@ -31,7 +31,7 @@ public class MainActivity extends BaseActivity implements NavFragment.OnNavigati
     FrameLayout mMainUi;
 
     private NavFragment mNavBar;
-
+//
     @Override
     protected int getContentView() {
         return R.layout.activity_main_ui;
